@@ -36,6 +36,5 @@ public class Array {
         // array method
         System.out.println(arrayInt.length);
 
-
     }
 }
