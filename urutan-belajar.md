@@ -10,3 +10,4 @@
 9. Array
 10. OperatorMatematika
 11. OperasiPerbandingan
+12. OperasiBoolean
