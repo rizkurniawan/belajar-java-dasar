@@ -16,3 +16,4 @@
 15. SwitchStatement
 16. TerneryOperator
 17. ForLoop
+18. WhileLoop
