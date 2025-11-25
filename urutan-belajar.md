@@ -15,3 +15,4 @@
 14. IfStatement
 15. SwitchStatement
 16. TerneryOperator
+17. ForLoop
