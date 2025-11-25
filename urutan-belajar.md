@@ -7,3 +7,4 @@
 6. TipeDataString
 7. Variable
 8. TipeDataBukanPrimitif
+9. Array
