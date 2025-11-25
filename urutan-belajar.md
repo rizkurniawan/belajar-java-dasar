@@ -5,3 +5,4 @@
 4. TipeDataChar
 5. TipeDataBooelan
 6. TipeDataString
+7. Variable
