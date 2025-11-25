@@ -9,3 +9,4 @@
 8. TipeDataBukanPrimitif
 9. Array
 10. OperatorMatematika
+11. OperasiPerbandingan
