@@ -21,3 +21,4 @@
 20. Break
 21. Continue
 22. ForEach
+23. Method
