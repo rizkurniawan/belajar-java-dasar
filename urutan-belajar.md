@@ -14,3 +14,4 @@
 13. Block
 14. IfStatement
 15. SwitchStatement
+16. TerneryOperator
