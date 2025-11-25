@@ -3,3 +3,4 @@
 2. TipeDataNumber
 3. KonversiNumber
 4. TipeDataChar
+5. TipeDataBooelan
