@@ -6,3 +6,4 @@
 5. TipeDataBooelan
 6. TipeDataString
 7. Variable
+8. TipeDataBukanPrimitif
