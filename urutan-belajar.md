@@ -18,3 +18,5 @@
 17. ForLoop
 18. WhileLoop
 19. DoWhileLoop
+20. Break
+21. Continue
